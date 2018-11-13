@@ -71,6 +71,12 @@
             [self AddBackImage:_image];
             [self AddCenterSearch:_title];
             break;
+        case NavStyleLeftImageAndRightImageAndCenter:
+            [self AddBackImage:_image];
+            [self AddCenterTitle:_title];
+            [self AddRightImage:_rightTitle];
+            
+            break;
         default:
             break;
     }
@@ -162,14 +168,15 @@
 - (void)AddRightImage:(NSString *)image{
     WS(ws);
     FLAnimatedImageView * right = [FLAnimatedImageView new];
-    right.backgroundColor = RANDOMCOLOR;
+    right.image = UIIMAGE(image);
     [self addSubview:right];
     
     [right mas_makeConstraints:^(MASConstraintMaker *make) {
         make.right.equalTo(ws).with.offset(-LENGTH(25));
-        make.bottom.equalTo(ws).with.offset(-LENGTH(2));
-        make.height.mas_equalTo(@40);
-        make.width.mas_equalTo(@40);
+//        make.bottom.equalTo(ws).with.offset(-LENGTH(2));
+        make.centerY.mas_equalTo(ws).with.offset(StatusBar/2);
+        make.height.mas_equalTo(23);
+        make.width.mas_equalTo(23);
     }];
     
     BaseButton * LeftBigButton = [BaseButton buttonWithType:UIButtonTypeCustom];
@@ -194,5 +201,47 @@
 }
 - (void)centerBt{
     [self.delegate NavCenterClick];
+}
+
+- (void)jianbian:(NSString *)text
+           Color:(NSArray *)colorarray{
+    titleLable.text = text;
+    titleLable.font = [UIFont fontWithName:@"Baoli SC" size:FontSize(LENGTH(30))];
+    [self.superview layoutIfNeeded];
+    
+    // 创建渐变层
+    CAGradientLayer* gradientLayer = [CAGradientLayer layer];
+    titleLable.layer.shadowOpacity = 1;
+    titleLable.layer.shadowColor = RGBA(73, 58, 18,0.6).CGColor;
+    titleLable.layer.shadowRadius = 1.0f;
+    titleLable.layer.shadowOffset = CGSizeMake(0,0);
+    
+    gradientLayer.frame = titleLable.frame;
+    gradientLayer.colors = colorarray;
+    gradientLayer.locations = @[@0.0, @0.38, @1];
+    //    gradientLayer.startPoint = CGPointMake(0, 1);
+    //    gradientLayer.endPoint = CGPointMake(1, 1);
+    [self.layer addSublayer:gradientLayer];
+    
+    gradientLayer.mask = titleLable.layer;
+    titleLable.frame = gradientLayer.bounds;
+    
+    //    gradientLayer.mask = testLabel.layer;
+    //    testLabel.frame = gradientLayer.bounds;
+    
+    
+    
+    
+    //    CAGradientLayer *gradient = [CAGradientLayer layer];
+    //    [self.layer addSublayer:gradient];
+    //    [titleLable layoutIfNeeded];
+    //    gradient.frame = titleLable.frame;
+    //    gradient.colors = colorarray;
+    //
+}
+
+- (void)setTitcolor:(UIColor *)titcolor{
+    _titcolor = titcolor;
+    titleLable.textColor = titcolor;
 }
 @end

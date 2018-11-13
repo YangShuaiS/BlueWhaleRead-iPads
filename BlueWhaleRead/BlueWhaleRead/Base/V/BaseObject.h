@@ -13,6 +13,7 @@ extern CGFloat TabBarHeight;
 extern CGFloat StatusBar;
 
 extern NSString * ZSFWQ;
+extern CGFloat poinw;
 
 
 extern MeModel const * Me;
@@ -60,4 +61,6 @@ extern MeModel const * Me;
 + (NSMutableAttributedString*)AttribleString:(NSInteger)HangJianJu
                                       String:(NSString * )string;
 +(NSString*)getCurrentTimes;
++ (UIColor *) colorWithHexString: (NSString *)color;
+
 @end

@@ -46,6 +46,8 @@
     StatusBar = statusBar.frame.size.height;
     NavHeight = StatusBar+NAVIGATIONHeight;
     TabBarHeight = TABBARHeight;
+    poinw = WIDTH/24;
+
 }
 - (void)viewWillAppear:(BOOL)animated{
     [super viewWillAppear:animated];
@@ -236,8 +238,9 @@
             make.height.mas_equalTo(0);
         }];
     }else{
-        homeWork.itemarray = model.classStudent;
-        
+        if (homeWork.itemarray.count ==0) {
+            homeWork.itemarray = model.classStudent;
+        }
     }
     moderate.model = model.typeList;
     new.itemarray = model.hotBadge;

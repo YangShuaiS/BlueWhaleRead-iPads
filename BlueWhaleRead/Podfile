@@ -4,7 +4,7 @@ target 'BlueWhaleRead' do
     
 pod 'AFNetworking'
 pod 'MJRefresh'
-pod 'SDWebImage'
+pod 'SDWebImage', '~> 4.4.1'
 pod 'SDWebImage/GIF'
 pod 'Masonry'
 pod 'SDCycleScrollView'
@@ -20,4 +20,6 @@ pod 'MBProgressHUD'
 
 #use_frameworks!
 #pod 'Charts', '~> 3.0.1'
+pod 'iCarousel', '~> 1.8.3'
+pod 'PGDatePicker'
 end

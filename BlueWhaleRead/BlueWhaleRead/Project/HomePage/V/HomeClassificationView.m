@@ -14,6 +14,7 @@
 #import "MyClassViewController.h"
 #import "AchievementReportViewController.h"
 #import "HomeActivityViewController.h"
+#import "ZhiShiShuViewController.h"
 @interface HomeClassificationView ()<UICollectionViewDataSource,UICollectionViewDelegate>
 
 @end
@@ -76,8 +77,7 @@
         [self.nav pushViewController:vc animated:YES];
     }
     if (model.seq == 5) {
-        HomeActivityViewController * vc = [HomeActivityViewController new];
-        vc.itemid = model.ssid;
+        ZhiShiShuViewController * vc = [ZhiShiShuViewController new];
         [self.nav pushViewController:vc animated:YES];
     }    
 }

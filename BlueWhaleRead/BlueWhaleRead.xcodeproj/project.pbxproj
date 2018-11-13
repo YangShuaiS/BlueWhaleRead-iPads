@@ -288,6 +288,41 @@
 		0D82223920F06AAA00E88E07 /* MyMessageCellView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D82223820F06AAA00E88E07 /* MyMessageCellView.m */; };
 		0D82223C20F06F8A00E88E07 /* MyMessageXQViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D82223B20F06F8A00E88E07 /* MyMessageXQViewController.m */; };
 		0D82223F20F0F5D000E88E07 /* MedalListXqBookTableView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D82223E20F0F5D000E88E07 /* MedalListXqBookTableView.m */; };
+		0D8D9ACA217EF75D00F37AC0 /* ZhiShiShuBookStyleView1All.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D8D9A82217EF75D00F37AC0 /* ZhiShiShuBookStyleView1All.m */; };
+		0D8D9ACB217EF75D00F37AC0 /* ZhiShiShuBookStyleView1.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D8D9A83217EF75D00F37AC0 /* ZhiShiShuBookStyleView1.m */; };
+		0D8D9ACC217EF75D00F37AC0 /* ZhiShiShuXqStyle1Model.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D8D9A86217EF75D00F37AC0 /* ZhiShiShuXqStyle1Model.m */; };
+		0D8D9ACD217EF75D00F37AC0 /* ZhiShiShuXqStyle2Model.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D8D9A88217EF75D00F37AC0 /* ZhiShiShuXqStyle2Model.m */; };
+		0D8D9ACE217EF75D00F37AC0 /* ZhiShiShuXqModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D8D9A8A217EF75D00F37AC0 /* ZhiShiShuXqModel.m */; };
+		0D8D9ACF217EF75D00F37AC0 /* ZhiShiShuDataModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D8D9A8C217EF75D00F37AC0 /* ZhiShiShuDataModel.m */; };
+		0D8D9AD0217EF75D00F37AC0 /* ZhiShiShuModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D8D9A91217EF75D00F37AC0 /* ZhiShiShuModel.m */; };
+		0D8D9AD1217EF75D00F37AC0 /* ZhiShiShuTwoModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D8D9A94217EF75D00F37AC0 /* ZhiShiShuTwoModel.m */; };
+		0D8D9AD2217EF75D00F37AC0 /* ZhiShiShuFLModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D8D9A96217EF75D00F37AC0 /* ZhiShiShuFLModel.m */; };
+		0D8D9AD3217EF75D00F37AC0 /* ZhiShiShuLineModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D8D9A97217EF75D00F37AC0 /* ZhiShiShuLineModel.m */; };
+		0D8D9AD4217EF75D00F37AC0 /* ZhiShiShuViTypeModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D8D9A98217EF75D00F37AC0 /* ZhiShiShuViTypeModel.m */; };
+		0D8D9AD5217EF75D00F37AC0 /* ZhiShiShuTimeLineModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D8D9A99217EF75D00F37AC0 /* ZhiShiShuTimeLineModel.m */; };
+		0D8D9AD6217EF75D00F37AC0 /* ZhiShiShuFLOneModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D8D9A9B217EF75D00F37AC0 /* ZhiShiShuFLOneModel.m */; };
+		0D8D9AD7217EF75D00F37AC0 /* ZhiSHiShuXianModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D8D9A9C217EF75D00F37AC0 /* ZhiSHiShuXianModel.m */; };
+		0D8D9AD8217EF75D00F37AC0 /* ZhiShiShuNeiRongModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D8D9A9D217EF75D00F37AC0 /* ZhiShiShuNeiRongModel.m */; };
+		0D8D9AD9217EF75D00F37AC0 /* MyPageControl.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D8D9AA1217EF75D00F37AC0 /* MyPageControl.m */; };
+		0D8D9ADA217EF75D00F37AC0 /* ZhiShiShuSMViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D8D9AA6217EF75D00F37AC0 /* ZhiShiShuSMViewController.m */; };
+		0D8D9ADB217EF75D00F37AC0 /* ZhiShiShuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D8D9AA7217EF75D00F37AC0 /* ZhiShiShuViewController.m */; };
+		0D8D9ADC217EF75D00F37AC0 /* ZhiShiShuShuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D8D9AA8217EF75D00F37AC0 /* ZhiShiShuShuViewController.m */; };
+		0D8D9ADD217EF75D00F37AC0 /* ZhiShiShuXQScroview.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D8D9AAA217EF75D00F37AC0 /* ZhiShiShuXQScroview.m */; };
+		0D8D9ADE217EF75D00F37AC0 /* ZhiShiShuGuanXi.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D8D9AAB217EF75D00F37AC0 /* ZhiShiShuGuanXi.m */; };
+		0D8D9ADF217EF75D00F37AC0 /* UIView+UIScreenDisplaying.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D8D9AAD217EF75D00F37AC0 /* UIView+UIScreenDisplaying.m */; };
+		0D8D9AE0217EF75E00F37AC0 /* ZhiShiShuQiuView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D8D9AAE217EF75D00F37AC0 /* ZhiShiShuQiuView.m */; };
+		0D8D9AE1217EF75E00F37AC0 /* ZhiShiShuOneDownView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D8D9AB3217EF75D00F37AC0 /* ZhiShiShuOneDownView.m */; };
+		0D8D9AE2217EF75E00F37AC0 /* ZhiShiShuNEiRong.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D8D9AB9217EF75D00F37AC0 /* ZhiShiShuNEiRong.m */; };
+		0D8D9AE3217EF75E00F37AC0 /* ZhiShiShuXQView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D8D9ABB217EF75D00F37AC0 /* ZhiShiShuXQView.m */; };
+		0D8D9AE4217EF75E00F37AC0 /* ZhiShiShuRelationView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D8D9ABE217EF75D00F37AC0 /* ZhiShiShuRelationView.m */; };
+		0D8D9AE5217EF75E00F37AC0 /* ZhiShiShuScroVuew.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D8D9ABF217EF75D00F37AC0 /* ZhiShiShuScroVuew.m */; };
+		0D8D9AE6217EF75E00F37AC0 /* ZhiShiShuLineView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D8D9AC0217EF75D00F37AC0 /* ZhiShiShuLineView.m */; };
+		0D8D9AE7217EF75E00F37AC0 /* ZhiShiShuView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D8D9AC1217EF75D00F37AC0 /* ZhiShiShuView.m */; };
+		0D8D9AE8217EF75E00F37AC0 /* ZhiShiSHuTanKuang.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D8D9AC3217EF75D00F37AC0 /* ZhiShiSHuTanKuang.m */; };
+		0D8D9AE9217EF75E00F37AC0 /* ZhiShiShuXQImagesAndTitle.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D8D9AC4217EF75D00F37AC0 /* ZhiShiShuXQImagesAndTitle.m */; };
+		0D8D9AEA217EF75E00F37AC0 /* ZhiShiSHuQiuCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D8D9AC7217EF75D00F37AC0 /* ZhiShiSHuQiuCollectionViewCell.m */; };
+		0D8D9AEB217EF75E00F37AC0 /* ZhiShiSHuLeftView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D8D9AC8217EF75D00F37AC0 /* ZhiShiSHuLeftView.m */; };
+		0D8D9AEC217EF75E00F37AC0 /* ZhiShiShuViView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D8D9AC9217EF75D00F37AC0 /* ZhiShiShuViView.m */; };
 		0D99872F20F304AA002BD2B7 /* MedalListXqTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D99872E20F304A9002BD2B7 /* MedalListXqTableViewCell.m */; };
 		0D99873220F31A6D002BD2B7 /* MedalChooseABookCollectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D99873120F31A6D002BD2B7 /* MedalChooseABookCollectionView.m */; };
 		0D99873520F335AC002BD2B7 /* MedalChoosCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D99873420F335AC002BD2B7 /* MedalChoosCollectionViewCell.m */; };
@@ -1013,6 +1048,76 @@
 		0D82223B20F06F8A00E88E07 /* MyMessageXQViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyMessageXQViewController.m; sourceTree = "<group>"; };
 		0D82223D20F0F5D000E88E07 /* MedalListXqBookTableView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MedalListXqBookTableView.h; sourceTree = "<group>"; };
 		0D82223E20F0F5D000E88E07 /* MedalListXqBookTableView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MedalListXqBookTableView.m; sourceTree = "<group>"; };
+		0D8D9A80217EF75D00F37AC0 /* ZhiShiShuBookStyleView1All.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZhiShiShuBookStyleView1All.h; sourceTree = "<group>"; };
+		0D8D9A81217EF75D00F37AC0 /* ZhiShiShuBookStyleView1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZhiShiShuBookStyleView1.h; sourceTree = "<group>"; };
+		0D8D9A82217EF75D00F37AC0 /* ZhiShiShuBookStyleView1All.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZhiShiShuBookStyleView1All.m; sourceTree = "<group>"; };
+		0D8D9A83217EF75D00F37AC0 /* ZhiShiShuBookStyleView1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZhiShiShuBookStyleView1.m; sourceTree = "<group>"; };
+		0D8D9A85217EF75D00F37AC0 /* ZhiShiShuXqStyle2Model.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZhiShiShuXqStyle2Model.h; sourceTree = "<group>"; };
+		0D8D9A86217EF75D00F37AC0 /* ZhiShiShuXqStyle1Model.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZhiShiShuXqStyle1Model.m; sourceTree = "<group>"; };
+		0D8D9A87217EF75D00F37AC0 /* ZhiShiShuXqModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZhiShiShuXqModel.h; sourceTree = "<group>"; };
+		0D8D9A88217EF75D00F37AC0 /* ZhiShiShuXqStyle2Model.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZhiShiShuXqStyle2Model.m; sourceTree = "<group>"; };
+		0D8D9A89217EF75D00F37AC0 /* ZhiShiShuXqStyle1Model.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZhiShiShuXqStyle1Model.h; sourceTree = "<group>"; };
+		0D8D9A8A217EF75D00F37AC0 /* ZhiShiShuXqModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZhiShiShuXqModel.m; sourceTree = "<group>"; };
+		0D8D9A8C217EF75D00F37AC0 /* ZhiShiShuDataModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZhiShiShuDataModel.m; sourceTree = "<group>"; };
+		0D8D9A8D217EF75D00F37AC0 /* ZhiShiShuFLOneModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZhiShiShuFLOneModel.h; sourceTree = "<group>"; };
+		0D8D9A8E217EF75D00F37AC0 /* ZhiShiShuTimeLineModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZhiShiShuTimeLineModel.h; sourceTree = "<group>"; };
+		0D8D9A8F217EF75D00F37AC0 /* ZhiShiShuViTypeModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZhiShiShuViTypeModel.h; sourceTree = "<group>"; };
+		0D8D9A90217EF75D00F37AC0 /* ZhiShiShuLineModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZhiShiShuLineModel.h; sourceTree = "<group>"; };
+		0D8D9A91217EF75D00F37AC0 /* ZhiShiShuModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZhiShiShuModel.m; sourceTree = "<group>"; };
+		0D8D9A92217EF75D00F37AC0 /* ZhiShiShuNeiRongModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZhiShiShuNeiRongModel.h; sourceTree = "<group>"; };
+		0D8D9A93217EF75D00F37AC0 /* ZhiSHiShuXianModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZhiSHiShuXianModel.h; sourceTree = "<group>"; };
+		0D8D9A94217EF75D00F37AC0 /* ZhiShiShuTwoModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZhiShiShuTwoModel.m; sourceTree = "<group>"; };
+		0D8D9A95217EF75D00F37AC0 /* MyPageControl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyPageControl.h; sourceTree = "<group>"; };
+		0D8D9A96217EF75D00F37AC0 /* ZhiShiShuFLModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZhiShiShuFLModel.m; sourceTree = "<group>"; };
+		0D8D9A97217EF75D00F37AC0 /* ZhiShiShuLineModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZhiShiShuLineModel.m; sourceTree = "<group>"; };
+		0D8D9A98217EF75D00F37AC0 /* ZhiShiShuViTypeModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZhiShiShuViTypeModel.m; sourceTree = "<group>"; };
+		0D8D9A99217EF75D00F37AC0 /* ZhiShiShuTimeLineModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZhiShiShuTimeLineModel.m; sourceTree = "<group>"; };
+		0D8D9A9A217EF75D00F37AC0 /* ZhiShiShuDataModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZhiShiShuDataModel.h; sourceTree = "<group>"; };
+		0D8D9A9B217EF75D00F37AC0 /* ZhiShiShuFLOneModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZhiShiShuFLOneModel.m; sourceTree = "<group>"; };
+		0D8D9A9C217EF75D00F37AC0 /* ZhiSHiShuXianModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZhiSHiShuXianModel.m; sourceTree = "<group>"; };
+		0D8D9A9D217EF75D00F37AC0 /* ZhiShiShuNeiRongModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZhiShiShuNeiRongModel.m; sourceTree = "<group>"; };
+		0D8D9A9E217EF75D00F37AC0 /* ZhiShiShuModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZhiShiShuModel.h; sourceTree = "<group>"; };
+		0D8D9A9F217EF75D00F37AC0 /* ZhiShiShuTwoModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZhiShiShuTwoModel.h; sourceTree = "<group>"; };
+		0D8D9AA0217EF75D00F37AC0 /* ZhiShiShuFLModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZhiShiShuFLModel.h; sourceTree = "<group>"; };
+		0D8D9AA1217EF75D00F37AC0 /* MyPageControl.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyPageControl.m; sourceTree = "<group>"; };
+		0D8D9AA3217EF75D00F37AC0 /* ZhiShiShuSMViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZhiShiShuSMViewController.h; sourceTree = "<group>"; };
+		0D8D9AA4217EF75D00F37AC0 /* ZhiShiShuViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZhiShiShuViewController.h; sourceTree = "<group>"; };
+		0D8D9AA5217EF75D00F37AC0 /* ZhiShiShuShuViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZhiShiShuShuViewController.h; sourceTree = "<group>"; };
+		0D8D9AA6217EF75D00F37AC0 /* ZhiShiShuSMViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZhiShiShuSMViewController.m; sourceTree = "<group>"; };
+		0D8D9AA7217EF75D00F37AC0 /* ZhiShiShuViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZhiShiShuViewController.m; sourceTree = "<group>"; };
+		0D8D9AA8217EF75D00F37AC0 /* ZhiShiShuShuViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZhiShiShuShuViewController.m; sourceTree = "<group>"; };
+		0D8D9AAA217EF75D00F37AC0 /* ZhiShiShuXQScroview.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZhiShiShuXQScroview.m; sourceTree = "<group>"; };
+		0D8D9AAB217EF75D00F37AC0 /* ZhiShiShuGuanXi.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZhiShiShuGuanXi.m; sourceTree = "<group>"; };
+		0D8D9AAC217EF75D00F37AC0 /* ZhiShiShuXQView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZhiShiShuXQView.h; sourceTree = "<group>"; };
+		0D8D9AAD217EF75D00F37AC0 /* UIView+UIScreenDisplaying.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+UIScreenDisplaying.m"; sourceTree = "<group>"; };
+		0D8D9AAE217EF75D00F37AC0 /* ZhiShiShuQiuView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZhiShiShuQiuView.m; sourceTree = "<group>"; };
+		0D8D9AAF217EF75D00F37AC0 /* ZhiShiShuView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZhiShiShuView.h; sourceTree = "<group>"; };
+		0D8D9AB0217EF75D00F37AC0 /* ZhiShiShuLineView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZhiShiShuLineView.h; sourceTree = "<group>"; };
+		0D8D9AB1217EF75D00F37AC0 /* ZhiShiShuScroVuew.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZhiShiShuScroVuew.h; sourceTree = "<group>"; };
+		0D8D9AB2217EF75D00F37AC0 /* ZhiShiShuRelationView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZhiShiShuRelationView.h; sourceTree = "<group>"; };
+		0D8D9AB3217EF75D00F37AC0 /* ZhiShiShuOneDownView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZhiShiShuOneDownView.m; sourceTree = "<group>"; };
+		0D8D9AB4217EF75D00F37AC0 /* ZhiShiShuXQImagesAndTitle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZhiShiShuXQImagesAndTitle.h; sourceTree = "<group>"; };
+		0D8D9AB5217EF75D00F37AC0 /* ZhiShiSHuTanKuang.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZhiShiSHuTanKuang.h; sourceTree = "<group>"; };
+		0D8D9AB6217EF75D00F37AC0 /* ZhiShiShuViView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZhiShiShuViView.h; sourceTree = "<group>"; };
+		0D8D9AB7217EF75D00F37AC0 /* ZhiShiSHuLeftView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZhiShiSHuLeftView.h; sourceTree = "<group>"; };
+		0D8D9AB8217EF75D00F37AC0 /* ZhiShiSHuQiuCollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZhiShiSHuQiuCollectionViewCell.h; sourceTree = "<group>"; };
+		0D8D9AB9217EF75D00F37AC0 /* ZhiShiShuNEiRong.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZhiShiShuNEiRong.m; sourceTree = "<group>"; };
+		0D8D9ABA217EF75D00F37AC0 /* UIView+UIScreenDisplaying.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+UIScreenDisplaying.h"; sourceTree = "<group>"; };
+		0D8D9ABB217EF75D00F37AC0 /* ZhiShiShuXQView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZhiShiShuXQView.m; sourceTree = "<group>"; };
+		0D8D9ABC217EF75D00F37AC0 /* ZhiShiShuGuanXi.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZhiShiShuGuanXi.h; sourceTree = "<group>"; };
+		0D8D9ABD217EF75D00F37AC0 /* ZhiShiShuXQScroview.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZhiShiShuXQScroview.h; sourceTree = "<group>"; };
+		0D8D9ABE217EF75D00F37AC0 /* ZhiShiShuRelationView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZhiShiShuRelationView.m; sourceTree = "<group>"; };
+		0D8D9ABF217EF75D00F37AC0 /* ZhiShiShuScroVuew.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZhiShiShuScroVuew.m; sourceTree = "<group>"; };
+		0D8D9AC0217EF75D00F37AC0 /* ZhiShiShuLineView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZhiShiShuLineView.m; sourceTree = "<group>"; };
+		0D8D9AC1217EF75D00F37AC0 /* ZhiShiShuView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZhiShiShuView.m; sourceTree = "<group>"; };
+		0D8D9AC2217EF75D00F37AC0 /* ZhiShiShuQiuView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZhiShiShuQiuView.h; sourceTree = "<group>"; };
+		0D8D9AC3217EF75D00F37AC0 /* ZhiShiSHuTanKuang.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZhiShiSHuTanKuang.m; sourceTree = "<group>"; };
+		0D8D9AC4217EF75D00F37AC0 /* ZhiShiShuXQImagesAndTitle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZhiShiShuXQImagesAndTitle.m; sourceTree = "<group>"; };
+		0D8D9AC5217EF75D00F37AC0 /* ZhiShiShuOneDownView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZhiShiShuOneDownView.h; sourceTree = "<group>"; };
+		0D8D9AC6217EF75D00F37AC0 /* ZhiShiShuNEiRong.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZhiShiShuNEiRong.h; sourceTree = "<group>"; };
+		0D8D9AC7217EF75D00F37AC0 /* ZhiShiSHuQiuCollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZhiShiSHuQiuCollectionViewCell.m; sourceTree = "<group>"; };
+		0D8D9AC8217EF75D00F37AC0 /* ZhiShiSHuLeftView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZhiShiSHuLeftView.m; sourceTree = "<group>"; };
+		0D8D9AC9217EF75D00F37AC0 /* ZhiShiShuViView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZhiShiShuViView.m; sourceTree = "<group>"; };
 		0D99872D20F304A9002BD2B7 /* MedalListXqTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MedalListXqTableViewCell.h; sourceTree = "<group>"; };
 		0D99872E20F304A9002BD2B7 /* MedalListXqTableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MedalListXqTableViewCell.m; sourceTree = "<group>"; };
 		0D99873020F31A6D002BD2B7 /* MedalChooseABookCollectionView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MedalChooseABookCollectionView.h; sourceTree = "<group>"; };
@@ -1364,6 +1469,7 @@
 		0D56D8A820C90F8F00E24C23 /* HomePage */ = {
 			isa = PBXGroup;
 			children = (
+				0D8D9A7E217EF75D00F37AC0 /* ZhiShiShu */,
 				0D56D8A920C90F8F00E24C23 /* M */,
 				0D56D8AA20C90F8F00E24C23 /* C */,
 				0D56D8AB20C90F8F00E24C23 /* V */,
@@ -2217,6 +2323,123 @@
 			path = Biao;
 			sourceTree = "<group>";
 		};
+		0D8D9A7E217EF75D00F37AC0 /* ZhiShiShu */ = {
+			isa = PBXGroup;
+			children = (
+				0D8D9A7F217EF75D00F37AC0 /* StyleView */,
+				0D8D9A84217EF75D00F37AC0 /* StyleModel */,
+				0D8D9A8B217EF75D00F37AC0 /* M */,
+				0D8D9AA2217EF75D00F37AC0 /* C */,
+				0D8D9AA9217EF75D00F37AC0 /* V */,
+			);
+			path = ZhiShiShu;
+			sourceTree = "<group>";
+		};
+		0D8D9A7F217EF75D00F37AC0 /* StyleView */ = {
+			isa = PBXGroup;
+			children = (
+				0D8D9A80217EF75D00F37AC0 /* ZhiShiShuBookStyleView1All.h */,
+				0D8D9A82217EF75D00F37AC0 /* ZhiShiShuBookStyleView1All.m */,
+				0D8D9A81217EF75D00F37AC0 /* ZhiShiShuBookStyleView1.h */,
+				0D8D9A83217EF75D00F37AC0 /* ZhiShiShuBookStyleView1.m */,
+			);
+			path = StyleView;
+			sourceTree = "<group>";
+		};
+		0D8D9A84217EF75D00F37AC0 /* StyleModel */ = {
+			isa = PBXGroup;
+			children = (
+				0D8D9A85217EF75D00F37AC0 /* ZhiShiShuXqStyle2Model.h */,
+				0D8D9A86217EF75D00F37AC0 /* ZhiShiShuXqStyle1Model.m */,
+				0D8D9A87217EF75D00F37AC0 /* ZhiShiShuXqModel.h */,
+				0D8D9A88217EF75D00F37AC0 /* ZhiShiShuXqStyle2Model.m */,
+				0D8D9A89217EF75D00F37AC0 /* ZhiShiShuXqStyle1Model.h */,
+				0D8D9A8A217EF75D00F37AC0 /* ZhiShiShuXqModel.m */,
+			);
+			path = StyleModel;
+			sourceTree = "<group>";
+		};
+		0D8D9A8B217EF75D00F37AC0 /* M */ = {
+			isa = PBXGroup;
+			children = (
+				0D8D9A8C217EF75D00F37AC0 /* ZhiShiShuDataModel.m */,
+				0D8D9A8D217EF75D00F37AC0 /* ZhiShiShuFLOneModel.h */,
+				0D8D9A8E217EF75D00F37AC0 /* ZhiShiShuTimeLineModel.h */,
+				0D8D9A8F217EF75D00F37AC0 /* ZhiShiShuViTypeModel.h */,
+				0D8D9A90217EF75D00F37AC0 /* ZhiShiShuLineModel.h */,
+				0D8D9A91217EF75D00F37AC0 /* ZhiShiShuModel.m */,
+				0D8D9A92217EF75D00F37AC0 /* ZhiShiShuNeiRongModel.h */,
+				0D8D9A93217EF75D00F37AC0 /* ZhiSHiShuXianModel.h */,
+				0D8D9A94217EF75D00F37AC0 /* ZhiShiShuTwoModel.m */,
+				0D8D9A95217EF75D00F37AC0 /* MyPageControl.h */,
+				0D8D9A96217EF75D00F37AC0 /* ZhiShiShuFLModel.m */,
+				0D8D9A97217EF75D00F37AC0 /* ZhiShiShuLineModel.m */,
+				0D8D9A98217EF75D00F37AC0 /* ZhiShiShuViTypeModel.m */,
+				0D8D9A99217EF75D00F37AC0 /* ZhiShiShuTimeLineModel.m */,
+				0D8D9A9A217EF75D00F37AC0 /* ZhiShiShuDataModel.h */,
+				0D8D9A9B217EF75D00F37AC0 /* ZhiShiShuFLOneModel.m */,
+				0D8D9A9C217EF75D00F37AC0 /* ZhiSHiShuXianModel.m */,
+				0D8D9A9D217EF75D00F37AC0 /* ZhiShiShuNeiRongModel.m */,
+				0D8D9A9E217EF75D00F37AC0 /* ZhiShiShuModel.h */,
+				0D8D9A9F217EF75D00F37AC0 /* ZhiShiShuTwoModel.h */,
+				0D8D9AA0217EF75D00F37AC0 /* ZhiShiShuFLModel.h */,
+				0D8D9AA1217EF75D00F37AC0 /* MyPageControl.m */,
+			);
+			path = M;
+			sourceTree = "<group>";
+		};
+		0D8D9AA2217EF75D00F37AC0 /* C */ = {
+			isa = PBXGroup;
+			children = (
+				0D8D9AA3217EF75D00F37AC0 /* ZhiShiShuSMViewController.h */,
+				0D8D9AA6217EF75D00F37AC0 /* ZhiShiShuSMViewController.m */,
+				0D8D9AA4217EF75D00F37AC0 /* ZhiShiShuViewController.h */,
+				0D8D9AA7217EF75D00F37AC0 /* ZhiShiShuViewController.m */,
+				0D8D9AA5217EF75D00F37AC0 /* ZhiShiShuShuViewController.h */,
+				0D8D9AA8217EF75D00F37AC0 /* ZhiShiShuShuViewController.m */,
+			);
+			path = C;
+			sourceTree = "<group>";
+		};
+		0D8D9AA9217EF75D00F37AC0 /* V */ = {
+			isa = PBXGroup;
+			children = (
+				0D8D9AB1217EF75D00F37AC0 /* ZhiShiShuScroVuew.h */,
+				0D8D9ABF217EF75D00F37AC0 /* ZhiShiShuScroVuew.m */,
+				0D8D9ABD217EF75D00F37AC0 /* ZhiShiShuXQScroview.h */,
+				0D8D9AAA217EF75D00F37AC0 /* ZhiShiShuXQScroview.m */,
+				0D8D9ABC217EF75D00F37AC0 /* ZhiShiShuGuanXi.h */,
+				0D8D9AAB217EF75D00F37AC0 /* ZhiShiShuGuanXi.m */,
+				0D8D9AAC217EF75D00F37AC0 /* ZhiShiShuXQView.h */,
+				0D8D9ABB217EF75D00F37AC0 /* ZhiShiShuXQView.m */,
+				0D8D9AAD217EF75D00F37AC0 /* UIView+UIScreenDisplaying.m */,
+				0D8D9ABA217EF75D00F37AC0 /* UIView+UIScreenDisplaying.h */,
+				0D8D9AC2217EF75D00F37AC0 /* ZhiShiShuQiuView.h */,
+				0D8D9AAE217EF75D00F37AC0 /* ZhiShiShuQiuView.m */,
+				0D8D9AAF217EF75D00F37AC0 /* ZhiShiShuView.h */,
+				0D8D9AC1217EF75D00F37AC0 /* ZhiShiShuView.m */,
+				0D8D9AB0217EF75D00F37AC0 /* ZhiShiShuLineView.h */,
+				0D8D9AC0217EF75D00F37AC0 /* ZhiShiShuLineView.m */,
+				0D8D9AB2217EF75D00F37AC0 /* ZhiShiShuRelationView.h */,
+				0D8D9ABE217EF75D00F37AC0 /* ZhiShiShuRelationView.m */,
+				0D8D9AC5217EF75D00F37AC0 /* ZhiShiShuOneDownView.h */,
+				0D8D9AB3217EF75D00F37AC0 /* ZhiShiShuOneDownView.m */,
+				0D8D9AB4217EF75D00F37AC0 /* ZhiShiShuXQImagesAndTitle.h */,
+				0D8D9AC4217EF75D00F37AC0 /* ZhiShiShuXQImagesAndTitle.m */,
+				0D8D9AB5217EF75D00F37AC0 /* ZhiShiSHuTanKuang.h */,
+				0D8D9AC3217EF75D00F37AC0 /* ZhiShiSHuTanKuang.m */,
+				0D8D9AB6217EF75D00F37AC0 /* ZhiShiShuViView.h */,
+				0D8D9AC9217EF75D00F37AC0 /* ZhiShiShuViView.m */,
+				0D8D9AB7217EF75D00F37AC0 /* ZhiShiSHuLeftView.h */,
+				0D8D9AC8217EF75D00F37AC0 /* ZhiShiSHuLeftView.m */,
+				0D8D9AB8217EF75D00F37AC0 /* ZhiShiSHuQiuCollectionViewCell.h */,
+				0D8D9AC7217EF75D00F37AC0 /* ZhiShiSHuQiuCollectionViewCell.m */,
+				0D8D9AC6217EF75D00F37AC0 /* ZhiShiShuNEiRong.h */,
+				0D8D9AB9217EF75D00F37AC0 /* ZhiShiShuNEiRong.m */,
+			);
+			path = V;
+			sourceTree = "<group>";
+		};
 		0D99874820F4C5C5002BD2B7 /* UpView */ = {
 			isa = PBXGroup;
 			children = (
@@ -2942,10 +3165,12 @@
 			inputPaths = (
 				"${SRCROOT}/Pods/Target Support Files/Pods-BlueWhaleRead/Pods-BlueWhaleRead-resources.sh",
 				"${PODS_ROOT}/MJRefresh/MJRefresh/MJRefresh.bundle",
+				"${PODS_ROOT}/PGDatePicker/PGDatePicker/PGDatePicker.bundle",
 			);
 			name = "[CP] Copy Pods Resources";
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/MJRefresh.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/PGDatePicker.bundle",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -2968,6 +3193,7 @@
 				0D1233BA2106C6640092B6C0 /* BageLeveListModel.m in Sources */,
 				0DD66B1C20DA27DE0056528B /* FriendXunZhangView.m in Sources */,
 				0D56D93020CA9EB700E24C23 /* FoundOliverTableView.m in Sources */,
+				0D8D9AE9217EF75E00F37AC0 /* ZhiShiShuXQImagesAndTitle.m in Sources */,
 				0DF411FD20C8D7000076B154 /* BaseLabel.m in Sources */,
 				0DD66B7620DA47360056528B /* ChallengeOneController.m in Sources */,
 				0D32683C2108AA4700D7D563 /* XianKuangView.m in Sources */,
@@ -2981,9 +3207,12 @@
 				0DF411FB20C8D7000076B154 /* BaseObject.m in Sources */,
 				0D65F08620CE563400F3B71F /* HomebadgelistModel.m in Sources */,
 				0DD66B8320DA47360056528B /* DTPaiXuView.m in Sources */,
+				0D8D9ADE217EF75D00F37AC0 /* ZhiShiShuGuanXi.m in Sources */,
 				0DD66B7A20DA47360056528B /* TZJieGuoViewController.m in Sources */,
 				0D0D7D6120E0F475003A3495 /* SearchView.m in Sources */,
 				0DF411FC20C8D7000076B154 /* LeiDaTuOnlyUser.m in Sources */,
+				0D8D9ACE217EF75D00F37AC0 /* ZhiShiShuXqModel.m in Sources */,
+				0D8D9AE5217EF75E00F37AC0 /* ZhiShiShuScroVuew.m in Sources */,
 				0D56D8CC20C92B1700E24C23 /* HomeModerateCollectView.m in Sources */,
 				0D6D7E19211854F10058C0C0 /* JoinBookBageXQModel.m in Sources */,
 				0D99873520F335AC002BD2B7 /* MedalChoosCollectionViewCell.m in Sources */,
@@ -2991,12 +3220,15 @@
 				0D56D8E320CA519200E24C23 /* HomeInterestGroupCollectionView.m in Sources */,
 				0DF411DE20C8D6F90076B154 /* BaseCollectionView.m in Sources */,
 				0DA1123120EE2B22001A3D4E /* SzScXXCollectionViewCell.m in Sources */,
+				0D8D9AEC217EF75E00F37AC0 /* ZhiShiShuViView.m in Sources */,
 				0D01AF4A20DCF216005C549B /* FoundModel.m in Sources */,
+				0D8D9AEA217EF75E00F37AC0 /* ZhiShiSHuQiuCollectionViewCell.m in Sources */,
 				0D7017B720D90311009BEA52 /* MyClassListModel.m in Sources */,
 				0D32682121084D4600D7D563 /* MedalStudentListModel.m in Sources */,
 				0D7017BA20D90462009BEA52 /* MyClassModel.m in Sources */,
 				0D65F0AB20CF615F00F3B71F /* CityTypeListModel.m in Sources */,
 				0D56D91120CA82C800E24C23 /* FoundYouClassView.m in Sources */,
+				0D8D9AD7217EF75D00F37AC0 /* ZhiSHiShuXianModel.m in Sources */,
 				0D56D8E920CA53C600E24C23 /* HotFire.m in Sources */,
 				0D65F19E20D2661F00F3B71F /* MyJoinInterestGroupView.m in Sources */,
 				0DA1120420ECC2AA001A3D4E /* UserUpDataMiMaView.m in Sources */,
@@ -3006,12 +3238,14 @@
 				0D1ACB02210F70C800690A26 /* HomeFriendHYHModel.m in Sources */,
 				0D82222B20EF6AEC00E88E07 /* LBTViewController.m in Sources */,
 				0D01AF4120DCA0A3005C549B /* SZLListModel.m in Sources */,
+				0D8D9ACD217EF75D00F37AC0 /* ZhiShiShuXqStyle2Model.m in Sources */,
 				0D65F0E820CFE33C00F3B71F /* YouXiuSPTableView.m in Sources */,
 				0D1233AB210586FF0092B6C0 /* DynamicModel.m in Sources */,
 				0D99875020F4C798002BD2B7 /* PopUpViewStyleAddMedalAllView.m in Sources */,
 				0D56D90420CA6CBC00E24C23 /* FriendIrMedalCollectionView.m in Sources */,
 				0D65F08920CE571100F3B71F /* HomemilestoneModel.m in Sources */,
 				0D56D8D520C9357000E24C23 /* HomeNewMedakTableView.m in Sources */,
+				0D8D9ACB217EF75D00F37AC0 /* ZhiShiShuBookStyleView1.m in Sources */,
 				0D1233B121060A6D0092B6C0 /* TKJIEGUOMODEL.m in Sources */,
 				0D1233B72106C0E40092B6C0 /* MyUserInfo.m in Sources */,
 				0D65F12B20D154E000F3B71F /* MedalXQLQXSTableView.m in Sources */,
@@ -3041,12 +3275,17 @@
 				0DF411F720C8D7000076B154 /* MenuNav.m in Sources */,
 				0DA1120720ECCEC8001A3D4E /* PersonXGYLPhoneView.m in Sources */,
 				0D56D8EC20CA5D1300E24C23 /* HomeLiteracyView.m in Sources */,
+				0D8D9AD8217EF75D00F37AC0 /* ZhiShiShuNeiRongModel.m in Sources */,
 				0D65F04920CE1AD400F3B71F /* BooStyleView.m in Sources */,
+				0D8D9AE3217EF75E00F37AC0 /* ZhiShiShuXQView.m in Sources */,
 				0D65F0E520CFDFCF00F3B71F /* MingShiDDView.m in Sources */,
 				0DD66B7220DA47360056528B /* CTPaiXuView.m in Sources */,
+				0D8D9ADD217EF75D00F37AC0 /* ZhiShiShuXQScroview.m in Sources */,
 				0D56D90E20CA81C600E24C23 /* FoundBanjiView.m in Sources */,
 				0D3268572109C0E500D7D563 /* AcherSZSCModel.m in Sources */,
+				0D8D9ACC217EF75D00F37AC0 /* ZhiShiShuXqStyle1Model.m in Sources */,
 				0D32685A2109C26D00D7D563 /* AcherSzScNRModel.m in Sources */,
+				0D8D9AE6217EF75E00F37AC0 /* ZhiShiShuLineView.m in Sources */,
 				0D65F06120CE208A00F3B71F /* UnderTabView.m in Sources */,
 				0D99875620F4C88E002BD2B7 /* PopUpViewStyleMedalcompleteView.m in Sources */,
 				0DA111E820EBAE1C001A3D4E /* BookXQDownMenuView.m in Sources */,
@@ -3057,6 +3296,7 @@
 				0D65F11F20D1201B00F3B71F /* AllBookListModel.m in Sources */,
 				0DF411CF20C8D6630076B154 /* SGQRCodeScanningView.m in Sources */,
 				0D2DAB7020E4CC1900EFFD1A /* DTJieGuoModel.m in Sources */,
+				0D8D9ADB217EF75D00F37AC0 /* ZhiShiShuViewController.m in Sources */,
 				0D26052D210B1AE200D15D17 /* MonthstudentModel.m in Sources */,
 				0DA111FE20ECB1EF001A3D4E /* UserForgetView.m in Sources */,
 				0D99873E20F36439002BD2B7 /* JoinBookCitytableView.m in Sources */,
@@ -3082,11 +3322,14 @@
 				0D260533210B41CE00D15D17 /* BeiJingView.m in Sources */,
 				0D1233B42106BFA60092B6C0 /* MyDeModel.m in Sources */,
 				0D65F10420D0BDE700F3B71F /* MedalListModel.m in Sources */,
+				0D8D9AE0217EF75E00F37AC0 /* ZhiShiShuQiuView.m in Sources */,
+				0D8D9AE1217EF75E00F37AC0 /* ZhiShiShuOneDownView.m in Sources */,
 				0D65F0D320CFB4B800F3B71F /* BookXQbookModel.m in Sources */,
 				0DD66B8620DA47360056528B /* DTLianXian.m in Sources */,
 				0D01AF3B20DC8EFB005C549B /* ShiZiOrCiLiangViewController.m in Sources */,
 				0D56D8BD20C91CB500E24C23 /* HomeClassificationView.m in Sources */,
 				0D3268332108897B00D7D563 /* AchiemyBalanceModel.m in Sources */,
+				0D8D9AD1217EF75D00F37AC0 /* ZhiShiShuTwoModel.m in Sources */,
 				0D7017B420D8DF93009BEA52 /* ReadbookModel.m in Sources */,
 				0D65F13120D2041600F3B71F /* MedalXQLQXSCellView.m in Sources */,
 				0D26052A210B1A6D00D15D17 /* MonthPMModel.m in Sources */,
@@ -3108,6 +3351,7 @@
 				0DD66B7420DA47360056528B /* DTJieGuoViewController.m in Sources */,
 				0D260527210B101B00D15D17 /* FoundMonthModel.m in Sources */,
 				0D82222820EF613700E88E07 /* ClassDtView.m in Sources */,
+				0D8D9AD5217EF75D00F37AC0 /* ZhiShiShuTimeLineModel.m in Sources */,
 				0DF4116120C8CB3C0076B154 /* ViewController.m in Sources */,
 				0DD66B8020DA47360056528B /* DTLeftAndRightView.m in Sources */,
 				0DF411F620C8D7000076B154 /* BaseView.m in Sources */,
@@ -3124,6 +3368,7 @@
 				0D70179F20D89EA7009BEA52 /* ReadBookListViewController.m in Sources */,
 				0D6D7E1321184FBF0058C0C0 /* JoinBookModel.m in Sources */,
 				0D65F1A820D2661F00F3B71F /* JInDuHeadImage.m in Sources */,
+				0D8D9ADF217EF75D00F37AC0 /* UIView+UIScreenDisplaying.m in Sources */,
 				0D65F11620D0F32C00F3B71F /* MdcziXQJSView.m in Sources */,
 				0D32682421084D8A00D7D563 /* MedalStudenBookModel.m in Sources */,
 				0D65F07D20CE554700F3B71F /* TypeListModel.m in Sources */,
@@ -3132,6 +3377,7 @@
 				0D0D7D5E20E0DC5E003A3495 /* HomeActivityTopTableViewCell.m in Sources */,
 				0DF411DD20C8D6F90076B154 /* BaseTableView.m in Sources */,
 				0D65F19F20D2661F00F3B71F /* MyMedalTableView.m in Sources */,
+				0D8D9AD6217EF75D00F37AC0 /* ZhiShiShuFLOneModel.m in Sources */,
 				0D65F16220D2650400F3B71F /* AboutViewController.m in Sources */,
 				0D82222520EF612300E88E07 /* ClassDtTableViewCell.m in Sources */,
 				0DF411F820C8D7000076B154 /* BaseCollectionViewCell.m in Sources */,
@@ -3169,6 +3415,7 @@
 				0DF411FA20C8D7000076B154 /* NativeView.m in Sources */,
 				0D65F05720CE1CB600F3B71F /* UIView+JKUiviewExtension.m in Sources */,
 				0DD66B1020D9EED70056528B /* FriendViewController.m in Sources */,
+				0D8D9AD0217EF75D00F37AC0 /* ZhiShiShuModel.m in Sources */,
 				0D0D7D6D20E22D34003A3495 /* GenBookView.m in Sources */,
 				0D56D92520CA936200E24C23 /* DCCycleScrollViewFlowLayout.m in Sources */,
 				0D65F09020CE9AEF00F3B71F /* BookListViewController.m in Sources */,
@@ -3184,6 +3431,8 @@
 				0DF411A120C8D5F90076B154 /* BaseNavigationViewController.m in Sources */,
 				0DD66B2520DA34590056528B /* FriendHotView.m in Sources */,
 				0D56D8BA20C91A1900E24C23 /* HomeLBTView.m in Sources */,
+				0D8D9AD2217EF75D00F37AC0 /* ZhiShiShuFLModel.m in Sources */,
+				0D8D9ACF217EF75D00F37AC0 /* ZhiShiShuDataModel.m in Sources */,
 				0D65F1A320D2661F00F3B71F /* PersonDownView.m in Sources */,
 				0DF4116720C8CB3C0076B154 /* BlueWhaleRead.xcdatamodeld in Sources */,
 				0D56D8DD20CA28B600E24C23 /* NavigationMenuView.m in Sources */,
@@ -3196,6 +3445,7 @@
 				0DA1122B20EE210F001A3D4E /* SZorSCView.m in Sources */,
 				0D56D8E020CA517B00E24C23 /* HomeInterestGroupView.m in Sources */,
 				0D32683F2108B3DF00D7D563 /* XianNeiRongView.m in Sources */,
+				0D8D9ACA217EF75D00F37AC0 /* ZhiShiShuBookStyleView1All.m in Sources */,
 				0D65F19B20D2661F00F3B71F /* PersonXuanZeZhaoPian.m in Sources */,
 				0D65F1A620D2661F00F3B71F /* MyQingKuangView.m in Sources */,
 				0DE22F4220F893D0007DB0B8 /* PopUpViewStyleAnswerView.m in Sources */,
@@ -3218,8 +3468,10 @@
 				0D56D92620CA936200E24C23 /* DCCycleScrollView.m in Sources */,
 				0D65F10120D0BD6200F3B71F /* MedalListCellView.m in Sources */,
 				0D99876820F60DE7002BD2B7 /* HomeMilestDuiHuaKuangView.m in Sources */,
+				0D8D9ADA217EF75D00F37AC0 /* ZhiShiShuSMViewController.m in Sources */,
 				0DA1121020ECD3A3001A3D4E /* PersonQingChuHUanCunView.m in Sources */,
 				0DD66B9320DA6C960056528B /* BookProblemsModel.m in Sources */,
+				0D8D9AD9217EF75D00F37AC0 /* MyPageControl.m in Sources */,
 				0D65F0FE20D0BD4900F3B71F /* MedalListTableViewCell.m in Sources */,
 				0D65F11020D0EBDF00F3B71F /* MedalListXQViewController.m in Sources */,
 				0D65F0BB20CFAB9200F3B71F /* BookXQModel.m in Sources */,
@@ -3228,10 +3480,12 @@
 				0D6E93BE20EB1ED400BC1BC4 /* underLeftTableViewCell.m in Sources */,
 				0DD66B2820DA348D0056528B /* FriendHotTableView.m in Sources */,
 				0D3268392108908500D7D563 /* AchieuserReadInfoModel.m in Sources */,
+				0D8D9AD4217EF75D00F37AC0 /* ZhiShiShuViTypeModel.m in Sources */,
 				0DF411D020C8D6630076B154 /* SGQRCodeScanManager.m in Sources */,
 				0DA111EF20EC9D7D001A3D4E /* UserLoginViewController.m in Sources */,
 				0D82221620EE552C00E88E07 /* SZSCViewController.m in Sources */,
 				0D99875320F4C880002BD2B7 /* PopUpViewStyleAddMedalPartView.m in Sources */,
+				0D8D9AE7217EF75E00F37AC0 /* ZhiShiShuView.m in Sources */,
 				0D65F16420D2650400F3B71F /* MyMedalViewController.m in Sources */,
 				0D1233C021070DB30092B6C0 /* MedalListBadgeInfoModel.m in Sources */,
 				0D65F07420CE521500F3B71F /* LunboModel.m in Sources */,
@@ -3252,6 +3506,7 @@
 				0D65F05820CE1CB600F3B71F /* JKStarScoreView.m in Sources */,
 				0D32684B21097B1900D7D563 /* AchiereadPowerModel.m in Sources */,
 				0DF411CB20C8D6630076B154 /* ScanSuccessJumpVC.m in Sources */,
+				0D8D9ADC217EF75D00F37AC0 /* ZhiShiShuShuViewController.m in Sources */,
 				0D640C8C20E9B7850029ED99 /* TiMuModel.m in Sources */,
 				0D4DB7FE20DBA06000160848 /* TXXunZhangModel.m in Sources */,
 				0DA111F820ECAFFC001A3D4E /* UserLoginForgetMMOneViewController.m in Sources */,
@@ -3260,6 +3515,7 @@
 				0DD66B8A20DA47360056528B /* DTShiZiCiView.m in Sources */,
 				0D7017AB20D8A7A4009BEA52 /* UnreadBookModel.m in Sources */,
 				0DD66B1920DA08C80056528B /* FriendUserModel.m in Sources */,
+				0D8D9AE4217EF75E00F37AC0 /* ZhiShiShuRelationView.m in Sources */,
 				0D1233C62107559E0092B6C0 /* ZhuTiTagModel.m in Sources */,
 				0D640C8F20E9D1EB0029ED99 /* TiStyleModel.m in Sources */,
 				0D65F0EB20D0ABD600F3B71F /* YouXiuSPTableViewCell.m in Sources */,
@@ -3268,6 +3524,7 @@
 				0D65F0D620CFB63400F3B71F /* BookXQBookReview.m in Sources */,
 				0D0D7D5B20E0DA6C003A3495 /* HomeActivityTableView.m in Sources */,
 				0D56D8F520CA651100E24C23 /* HomeFriendReadingCollectionView.m in Sources */,
+				0D8D9AE2217EF75E00F37AC0 /* ZhiShiShuNEiRong.m in Sources */,
 				0DD66B8820DA47360056528B /* TiaoZHanJieGuoView.m in Sources */,
 				0D99874120F3644A002BD2B7 /* JoinBookCityTableViewCell.m in Sources */,
 				0D65F1B820D2663600F3B71F /* AchievementTableViewCell.m in Sources */,
@@ -3277,6 +3534,7 @@
 				0D2DAB7620E6236F00EFFD1A /* CTDuoXuanNewView.m in Sources */,
 				0D65F08020CE558200F3B71F /* BookListModel.m in Sources */,
 				0D65F06E20CE47B100F3B71F /* ReadPeopleModel.m in Sources */,
+				0D8D9AEB217EF75E00F37AC0 /* ZhiShiSHuLeftView.m in Sources */,
 				0D326866210A048D00D7D563 /* MyMessageModel.m in Sources */,
 				0D46A8502100BBA1008D9ADD /* MyClassTopModel.m in Sources */,
 				0D56D90120CA69BD00E24C23 /* FriendOrMedalImageCollectionViewCell.m in Sources */,
@@ -3287,6 +3545,7 @@
 				0D46A84821002F25008D9ADD /* LCBmilestoneModel.m in Sources */,
 				0D56D93620CAB5ED00E24C23 /* OliverView.m in Sources */,
 				0D65F12520D1339500F3B71F /* MedalLQXSViewController.m in Sources */,
+				0D8D9AE8217EF75E00F37AC0 /* ZhiShiSHuTanKuang.m in Sources */,
 				0D99874D20F4C5D5002BD2B7 /* GeneralUpView.m in Sources */,
 				0D65F07720CE540000F3B71F /* TagModel.m in Sources */,
 				0D65F19920D2661F00F3B71F /* MyClassCellView.m in Sources */,
@@ -3309,6 +3568,7 @@
 				0DA1120D20ECD0D6001A3D4E /* PersonXinAndOldPhoneView.m in Sources */,
 				0D65F04F20CE1BE500F3B71F /* BookTableViewCell.m in Sources */,
 				0D56D92720CA936200E24C23 /* DCCycleScrollViewCell.m in Sources */,
+				0D8D9AD3217EF75D00F37AC0 /* ZhiShiShuLineModel.m in Sources */,
 				0DD66B8520DA47360056528B /* DaTiClick.m in Sources */,
 				0D65F10A20D0BF2400F3B71F /* MedalBageFriendModel.m in Sources */,
 				0D260524210AC6E900D15D17 /* CityTopBiaoreadBalanceModel.m in Sources */,

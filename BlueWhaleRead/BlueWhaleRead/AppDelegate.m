@@ -64,6 +64,9 @@
         [self addYDYView];
     } else {
     }
+    
+    [UIApplication sharedApplication].statusBarStyle = UIStatusBarStyleDefault;
+
     [NSThread sleepForTimeInterval:1];
     return YES;
 
@@ -155,6 +158,9 @@ void UncaughtExceptionHandler(NSException *exception) {
     [ShiCiLiangModel InitializeModel];
     [FoundModel InitializeModel];
     [LCBMilestone InitializeModel];
+    [ZhiShiShuModel InitializeModel];//知识树
+    [ZhiShiShuXqModel InitializeModel];
+    [ZhiShiShuFLModel InitializeModel];//知识树分类
 }
 
 - (void)applicationWillResignActive:(UIApplication *)application {

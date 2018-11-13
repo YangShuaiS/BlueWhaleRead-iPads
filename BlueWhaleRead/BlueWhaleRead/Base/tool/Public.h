@@ -36,7 +36,8 @@
 
 //#define IMAGEURL @"http://39.106.100.235:8081/"
 #define IMAGEURL @"http://tiantianaidu.com/"
-
+#define ZSTX @"http://192.168.1.231:9001/"//内网
+//#define ZSTX @"http://119.90.89.88:9001/"//外网
 
 #define HOMEPAGE @"api/v1.0/homePage"//首页
 #define BOOKCITY @"api/v1.0/bookList"//书库
@@ -73,6 +74,9 @@
 #define JK_BANJIDONGTAI @"api/v1.0/classDynamicList"//班级动态
 #define JK_FASONGYANZHENGMA @"api/v1.0/sendMessage"//发送验证码
 #define JK_JIAOYANYANZHENGMA @"api/v1.0/checkCode"//教研验证码
+#define JK_GENGGAISHOUJIHAO @"api/v1.0/updatePhone"//更改手机号
+
+
 #define JK_GOODBOOKGAN @"api/v1.0/goodArticleList"//读后感
 #define JK_MyBadge @"api/v1.0/myBadge"//我的勋章
 #define JK_FRIENDHYH @"api/v1.0/friendBook"//首页换一换
@@ -90,6 +94,9 @@
 #define JK_TISHICILIANG @"api/v1.0/glossaryTest"//识词量
 #define JK_PUSHSCJIEGUO @"api/v1.0/submitGlossary"//提交识词
 
+#define JK_ZHISHITIXIXIANGQING @"knowledge/get-all"//体系详情
+#define JK_ZHISHITIXIXIFENLEI @"/knowledge/get-type"//体系分类
+#define JK_ZHISHITIXIXQ @"/knowledge/get-content"//体系详情
 // 相对iphone6S 屏幕比
 #define KWidth_ScaleW [UIScreen mainScreen].bounds.size.width/414.0f
 #define KWidth_ScaleH [UIScreen mainScreen].bounds.size.height/736.0f
